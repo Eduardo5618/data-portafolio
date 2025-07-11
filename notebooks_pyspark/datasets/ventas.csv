@@ -1,0 +1,11 @@
+id_venta,cliente,producto,categoria,precio,cantidad,fecha
+1,Carlos,Laptop,Electrónica,2500,1,2023-01-12
+2,Ana,Mouse,Electrónica,80,2,2023-01-14
+3,Lucía,Libro,Libros,40,3,2023-01-20
+4,Pedro,Silla,Hogar,150,1,2023-01-25
+5,Carlos,Teclado,Electrónica,120,1,2023-02-02
+6,Ana,Mesa,Hogar,300,1,2023-02-05
+7,Lucía,Lámpara,Hogar,90,2,2023-02-10
+8,Marco,Camiseta,Ropa,50,2,2023-02-11
+9,Ana,Audífonos,Electrónica,200,1,2023-03-01
+10,Pedro,Libro,Libros,45,1,2023-03-03

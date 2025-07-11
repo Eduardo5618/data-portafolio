@@ -20,24 +20,30 @@ Proyecto completo que lee datos de ventas desde CSV, limpia texto (tildes, nulos
 
 📁 [`Ver proyecto`](proyectos_etl/etl_rds_aws/README.md)
 
-### 2. Automatización de Reportes con Pandas
-📁 [`pandas_automations/reporte_ventas_excel.py`](pandas_automations/reporte_ventas_excel.py)  
-Script que automatiza la lectura, combinación y limpieza de archivos de ventas, y exporta un reporte final en Excel.
+## ⚙️ Automatización de procesos – Entel Perú S.A.
 
-### 4. Transformación Masiva con PySpark
-📁 [`pyspark_practices/limpieza_transformacion.py`](pyspark_practices/limpieza_transformacion.py)  
-Limpieza de datos con PySpark a nivel masivo, detección de outliers, nulos y exportación en formato Parquet.
+Proyecto real desarrollado durante mis prácticas en Entel Perú, donde implementé automatizaciones con Python, Power BI y Power Automate para flujos operativos críticos como validación biométrica, reclamos y consolidación de ventas.
 
-### 5. Joins y Funciones de Ventana en PySpark
-📁 [`pyspark_practices/joins_ventana.py`](pyspark_practices/joins_ventana.py)  
-Integración de datasets con joins múltiples y análisis de comportamiento por usuario con funciones de ventana.
+📁 [`Ver proyecto`](proyectos_etl/automatizacion_entel/README.md)
+
+## 💻 Prácticas en PySpark
+
+🧪 Notebooks prácticos donde aplico transformaciones con Spark, funciones de ventana, y procesamiento de datos a escala.
+
+📁 [`Ver notebooks`](notebooks_pyspark/README.md)
 
 ---
+# 📊 Dashboards de Portafolio - Datos ocultos
 
-## 📊 Dashboards
+Esta carpeta contiene ejemplos de dashboards desarrollados durante mis prácticas profesionales. Los datos han sido anonimizados o recreados para preservar la confidencialidad de la información empresarial.
 
-- 📄 [`kpis_contactabilidad_looker.pdf`](dashboards/kpis_contactabilidad_looker.pdf): Indicadores de campañas digitales con Looker Studio.
-- 🖼 [`dashboard_reclamos.png`](dashboards/dashboard_reclamos.png): Visualización automatizada desde Power BI.
+## 🧪 Contenido
+
+- **KPIs de Activaciones Biométricas** (Power BI)
+- **Resumen de Reclamos por canal y proveedor** (Looker Studio)
+- **Análisis de Ventas y Financiamientos** (Power BI)
+
+> ⚠️ Todos los reportes usan datos sintéticos o modificados con propósitos demostrativos.
 
 ---
 
