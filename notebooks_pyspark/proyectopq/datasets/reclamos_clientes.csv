@@ -1,0 +1,101 @@
+id_reclamo,id_cliente,canal,tipo_reclamo,fecha_reclamo,descripcion
+1,34,App,Atención deficiente,2025-05-30,Atención deficiente - Nobis eveniet facilis odit quibusdam itaque.
+2,34,Presencial,Otro,2025-02-10,Otro - Optio aut alias rem soluta.
+3,35,App,Cobranza indebida,2025-01-15,Cobranza indebida - Quos dicta omnis quas minus.
+4,34,Presencial,Problemas técnicos,2025-01-22,Problemas técnicos - Tempore aspernatur amet sunt optio.
+5,32,Presencial,Corte de servicio,2025-06-19,Corte de servicio - Praesentium optio hic quasi unde.
+6,29,App,Cobranza indebida,2025-05-15,Cobranza indebida - Officia doloribus eum ipsa.
+7,9,App,Corte de servicio,2025-03-06,Corte de servicio - Distinctio nisi error a cumque possimus.
+8,10,Presencial,Problemas técnicos,2025-01-12,Problemas técnicos - Velit tempora cumque enim.
+9,11,Web,Problemas técnicos,2025-03-25,Problemas técnicos - Laudantium recusandae culpa modi possimus delectus quos.
+10,14,App,Otro,2025-07-10,Otro - Quidem nisi sapiente quasi molestiae aperiam.
+11,22,Web,Cobranza indebida,2025-05-16,Cobranza indebida - Numquam commodi optio aliquam sint dicta.
+12,28,Presencial,Otro,2025-05-15,Otro - Unde debitis amet reprehenderit quisquam.
+13,10,Web,Otro,2025-04-20,Otro - Libero blanditiis labore illo delectus quidem.
+14,9,Callcenter,Cobranza indebida,2025-06-29,Cobranza indebida - Pariatur aut qui nisi nesciunt.
+15,4,Callcenter,Otro,2025-04-19,Otro - Quae cum repellat fuga ducimus.
+16,5,Presencial,Otro,2025-03-23,Otro - Explicabo ipsum fuga saepe dolores.
+17,40,App,Corte de servicio,2025-04-13,Corte de servicio - Laboriosam tempora rem.
+18,4,Presencial,Atención deficiente,2025-02-19,Atención deficiente - Quia voluptatem sequi quis molestias autem beatae.
+19,30,Presencial,Corte de servicio,2025-05-31,Corte de servicio - Officia facere quo nobis repellendus iusto.
+20,23,Presencial,Corte de servicio,2025-06-06,Corte de servicio - Consectetur nobis itaque eum animi cumque rem.
+21,14,App,Corte de servicio,2025-04-19,Corte de servicio - Facilis eum quos nihil.
+22,13,Web,Cobranza indebida,2025-01-16,Cobranza indebida - Praesentium rerum voluptas praesentium quaerat perferendis.
+23,22,App,Corte de servicio,2025-01-13,Corte de servicio - Vero consectetur qui facilis.
+24,2,App,Problemas técnicos,2025-06-14,Problemas técnicos - Repudiandae maiores facilis necessitatibus consectetur est.
+25,1,Web,Atención deficiente,2025-04-18,Atención deficiente - Nam dolor perspiciatis quasi.
+26,16,Web,Problemas técnicos,2025-04-04,Problemas técnicos - Labore impedit eos sint cumque reprehenderit sit.
+27,38,Callcenter,Atención deficiente,2025-07-06,Atención deficiente - Provident magnam dolor error asperiores.
+28,26,Web,Cobranza indebida,2025-05-21,Cobranza indebida - Et repellat odit cum nemo laudantium maiores.
+29,22,Web,Otro,2025-06-08,Otro - Voluptatum fugit nisi recusandae eaque.
+30,5,Web,Problemas técnicos,2025-04-06,Problemas técnicos - Soluta animi culpa vero.
+31,31,Callcenter,Corte de servicio,2025-03-19,Corte de servicio - Dolorum distinctio assumenda itaque magnam.
+32,39,Web,Atención deficiente,2025-06-11,Atención deficiente - Omnis fugiat consectetur voluptatum.
+33,12,Web,Problemas técnicos,2025-06-23,Problemas técnicos - Soluta hic aliquid ea porro repellendus porro.
+34,33,Presencial,Problemas técnicos,2025-03-09,Problemas técnicos - Officia iure impedit officia esse assumenda incidunt.
+35,37,Presencial,Cobranza indebida,2025-04-24,Cobranza indebida - Inventore rem eveniet soluta delectus.
+36,2,App,Problemas técnicos,2025-02-01,Problemas técnicos - Ipsam cumque accusamus laudantium.
+37,14,Presencial,Otro,2025-07-04,Otro - Molestiae molestiae accusantium rerum.
+38,2,Web,Problemas técnicos,2025-06-15,Problemas técnicos - Ullam tenetur dolorem quae inventore maxime.
+39,14,App,Problemas técnicos,2025-03-05,Problemas técnicos - Placeat qui dolore rerum porro eos nulla.
+40,6,Web,Otro,2025-05-29,Otro - Neque quos rem laudantium.
+41,19,Web,Otro,2025-07-01,Otro - Autem fugit sit neque.
+42,9,Callcenter,Otro,2025-02-26,Otro - Repellendus nulla voluptatum autem assumenda dolores.
+43,17,App,Otro,2025-01-25,Otro - Asperiores ipsa tempora dolor et officiis.
+44,2,Web,Otro,2025-01-25,Otro - A natus aspernatur hic asperiores.
+45,27,App,Corte de servicio,2025-03-28,Corte de servicio - Non hic quasi veniam.
+46,38,Web,Corte de servicio,2025-02-09,Corte de servicio - Tenetur libero magnam minima nihil repellendus recusandae molestiae.
+47,22,Web,Otro,2025-05-04,Otro - Mollitia cum odit iusto.
+48,8,Callcenter,Atención deficiente,2025-05-08,Atención deficiente - Ipsa distinctio suscipit dolor velit.
+49,16,Web,Problemas técnicos,2025-05-24,Problemas técnicos - Iure dicta facere aliquid quidem neque nulla.
+50,1,Callcenter,Corte de servicio,2025-05-08,Corte de servicio - Molestias eveniet ratione accusamus laudantium quos.
+51,22,App,Problemas técnicos,2025-05-22,Problemas técnicos - Veniam ducimus ipsa exercitationem praesentium accusamus.
+52,37,App,Problemas técnicos,2025-06-29,Problemas técnicos - Error aspernatur rem vitae voluptatum autem doloribus.
+53,37,Web,Corte de servicio,2025-06-15,Corte de servicio - Sequi temporibus sit qui hic repellat fuga.
+54,14,Web,Corte de servicio,2025-05-19,Corte de servicio - Magni animi rem aperiam nam.
+55,35,Web,Atención deficiente,2025-06-22,Atención deficiente - Nihil qui expedita.
+56,21,Web,Otro,2025-04-19,Otro - Cum voluptas aut dolorum facilis facilis tenetur.
+57,15,Web,Cobranza indebida,2025-04-22,Cobranza indebida - Placeat non distinctio accusamus voluptate expedita adipisci.
+58,37,Web,Corte de servicio,2025-03-15,Corte de servicio - Vitae odio maiores aliquid tempora voluptates.
+59,39,Web,Otro,2025-05-10,Otro - Doloremque totam sit corrupti iste delectus delectus.
+60,8,App,Problemas técnicos,2025-06-22,Problemas técnicos - Alias ut libero fugiat perferendis cupiditate libero distinctio.
+61,11,Web,Cobranza indebida,2025-04-21,Cobranza indebida - Accusamus enim officiis suscipit blanditiis error.
+62,40,Web,Corte de servicio,2025-03-22,Corte de servicio - Minima vel quas omnis cupiditate dicta dolores.
+63,27,Callcenter,Cobranza indebida,2025-04-19,Cobranza indebida - Nostrum provident qui vero inventore architecto laborum.
+64,40,App,Problemas técnicos,2025-04-05,Problemas técnicos - Fugit quod dolore.
+65,21,App,Cobranza indebida,2025-05-27,Cobranza indebida - In nihil rerum quis dolorem error corporis.
+66,26,Callcenter,Cobranza indebida,2025-04-08,Cobranza indebida - Inventore eligendi consectetur corporis dicta explicabo.
+67,20,Callcenter,Cobranza indebida,2025-01-21,Cobranza indebida - Odio voluptatum beatae eos.
+68,28,Presencial,Problemas técnicos,2025-07-08,Problemas técnicos - Sit ullam facere aliquid corrupti.
+69,25,Web,Corte de servicio,2025-06-04,Corte de servicio - Et dolorum provident aliquam porro adipisci.
+70,37,Presencial,Cobranza indebida,2025-06-22,Cobranza indebida - Iusto deleniti tenetur cum voluptatem quidem laboriosam.
+71,14,Web,Problemas técnicos,2025-02-07,Problemas técnicos - Nihil esse eaque fuga voluptatum perspiciatis.
+72,37,Callcenter,Problemas técnicos,2025-05-01,Problemas técnicos - Exercitationem quasi odio quia.
+73,7,Presencial,Cobranza indebida,2025-05-02,Cobranza indebida - Expedita ipsa labore iusto praesentium.
+74,14,Callcenter,Cobranza indebida,2025-01-09,Cobranza indebida - Saepe ratione excepturi sunt voluptatibus consectetur.
+75,40,Presencial,Otro,2025-02-20,Otro - Pariatur magnam nihil eius fuga.
+76,19,Web,Corte de servicio,2025-06-19,Corte de servicio - Consequatur dolor esse omnis.
+77,32,Presencial,Problemas técnicos,2025-05-01,Problemas técnicos - Veniam minima sequi neque.
+78,34,Callcenter,Corte de servicio,2025-05-01,Corte de servicio - Dignissimos qui ullam soluta.
+79,22,Callcenter,Corte de servicio,2025-04-23,Corte de servicio - Cum velit praesentium.
+80,16,Callcenter,Otro,2025-04-28,Otro - Non aliquam officia.
+81,30,Presencial,Problemas técnicos,2025-05-17,Problemas técnicos - Veniam totam cupiditate.
+82,16,Web,Atención deficiente,2025-02-01,Atención deficiente - Facere voluptatum adipisci dignissimos vero dolore autem.
+83,38,Callcenter,Problemas técnicos,2025-04-16,Problemas técnicos - Occaecati aliquam alias nulla delectus rem.
+84,39,App,Atención deficiente,2025-02-14,Atención deficiente - Corporis animi veniam fuga.
+85,3,App,Cobranza indebida,2025-04-25,Cobranza indebida - Reiciendis vero occaecati qui commodi.
+86,35,Callcenter,Problemas técnicos,2025-04-12,Problemas técnicos - Corporis consequuntur accusantium.
+87,14,Web,Cobranza indebida,2025-01-23,Cobranza indebida - Ut explicabo explicabo soluta culpa.
+88,31,Presencial,Corte de servicio,2025-03-10,Corte de servicio - Voluptas veniam amet quam.
+89,35,Presencial,Problemas técnicos,2025-03-25,Problemas técnicos - Commodi eos molestiae commodi officiis recusandae reprehenderit.
+90,23,Callcenter,Cobranza indebida,2025-06-19,Cobranza indebida - Rerum consectetur id ex fugit quisquam consectetur voluptatibus.
+91,9,Callcenter,Cobranza indebida,2025-04-13,Cobranza indebida - Exercitationem totam at dignissimos consequatur.
+92,36,Web,Problemas técnicos,2025-04-10,Problemas técnicos - Incidunt corrupti commodi quo at.
+93,3,Callcenter,Corte de servicio,2025-06-21,Corte de servicio - Tempora ipsum similique.
+94,3,Presencial,Cobranza indebida,2025-06-02,Cobranza indebida - Voluptatibus nostrum minima in magnam quidem ipsum eaque.
+95,20,Callcenter,Atención deficiente,2025-01-12,Atención deficiente - Non quidem deserunt id deserunt at.
+96,5,Callcenter,Atención deficiente,2025-01-09,Atención deficiente - Aliquam et quas illo maxime.
+97,14,Web,Atención deficiente,2025-04-13,Atención deficiente - Eligendi aliquid tenetur voluptatem iste repellendus.
+98,10,Presencial,Atención deficiente,2025-04-16,Atención deficiente - Dignissimos ducimus consectetur.
+99,26,Web,Atención deficiente,2025-03-30,Atención deficiente - Maxime velit veritatis earum dolores.
+100,32,Callcenter,Problemas técnicos,2025-06-14,Problemas técnicos - Eligendi reprehenderit consequatur nemo vel eaque.

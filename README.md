@@ -40,7 +40,7 @@ Esta carpeta contiene ejemplos de dashboards desarrollados durante mis práctica
 ## 🧪 Contenido
 
 - **KPIs de Activaciones Biométricas** (Power BI)
-- **Resumen de Reclamos por canal y proveedor** (Looker Studio)
+- **Resumen de Reclamos por canal y proveedor** (Power BI)
 - **Análisis de Ventas y Financiamientos** (Power BI)
 
 > ⚠️ Todos los reportes usan datos sintéticos o modificados con propósitos demostrativos.

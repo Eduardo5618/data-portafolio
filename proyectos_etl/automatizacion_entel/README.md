@@ -24,7 +24,7 @@ Reducir el tiempo y riesgo operativo mediante la automatización de tareas repet
   - Ventas al contado y financiadas
 - Automatización de reportes analíticos usados para detección de fraude, con envíos programados al área de Seguridad.
 
-## 📈 Impacto
+## Impacto
 
 - Reducción del tiempo de procesamiento de datos de hasta 3 horas a menos de 1 hora.
 - Reportes críticos disponibles en tiempo real para áreas de decisión.
