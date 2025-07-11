@@ -43,7 +43,9 @@ Esta carpeta contiene ejemplos de dashboards desarrollados durante mis práctica
 - **Resumen de Reclamos por canal y proveedor** (Power BI)
 - **Análisis de Ventas y Financiamientos** (Power BI)
 
-> ⚠️ Todos los reportes usan datos sintéticos o modificados con propósitos demostrativos.
+📁 [`Ver Dashboards`](dashboards/README.md)
+
+> Todos los reportes usan datos sintéticos o modificados con propósitos demostrativos.
 
 ---
 
