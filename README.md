@@ -15,17 +15,14 @@ Ingeniero de Sistemas con experiencia en automatización de procesos ETL, análi
 
 ## 🚀 Proyectos
 
-### 1. ETL simple: CSV a PostgreSQL
-📁 [`proyectos_etl/etl_csv_to_postgres.py`](proyectos_etl/etl_csv_to_postgres.py)  
-Pipeline simple que extrae datos desde archivos CSV, los transforma con Pandas y los carga en una base de datos PostgreSQL. Incluye archivo de esquema.
+### 🔹 ETL de ventas a RDS (AWS) – Pandas + PostgreSQL
+Proyecto completo que lee datos de ventas desde CSV, limpia texto (tildes, nulos, duplicados), enriquece los datos con nuevas métricas (`monto_total`), y los carga en una base PostgreSQL alojada en AWS RDS.
+
+📁 [`Ver proyecto`](proyectos_etl/etl_rds_aws/README.md)
 
 ### 2. Automatización de Reportes con Pandas
 📁 [`pandas_automations/reporte_ventas_excel.py`](pandas_automations/reporte_ventas_excel.py)  
 Script que automatiza la lectura, combinación y limpieza de archivos de ventas, y exporta un reporte final en Excel.
-
-### 3. Validación de Datos de Contacto
-📁 [`pandas_automations/validacion_datos_contacto.py`](pandas_automations/validacion_datos_contacto.py)  
-Analiza columnas con nulos, vacíos y duplicados para asegurar la calidad de datos en campañas.
 
 ### 4. Transformación Masiva con PySpark
 📁 [`pyspark_practices/limpieza_transformacion.py`](pyspark_practices/limpieza_transformacion.py)  
