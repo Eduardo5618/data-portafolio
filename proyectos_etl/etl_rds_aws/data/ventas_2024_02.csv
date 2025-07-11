@@ -1,0 +1,501 @@
+id_venta,fecha,cliente_id,producto,categoria,monto,metodo_pago,ciudad,vendedor,descuento_aplicado,reembolsado
+1,2024-02-15,1539,Tablet,Tecnología,2331.98,Tarjeta,South Donald,Chad Miller,0.16,0
+2,2024-02-15,1277,Tablet,Accesorios,414.03,Efectivo,Valerietown,Jack Barnes,0.11,0
+3,2024-02-15,1232,Celular,Electrónica,1897.65,Transferencia,Jorgeside,Wayne Hunt,0.05,1
+4,2024-02-15,1528,Laptop,Tecnología,871.49,Tarjeta,Lake Corey,Stephen Holland,0.14,0
+5,2024-02-15,1570,Audífonos,Electrónica,2566.3,Transferencia,West Jamesshire,Kelli Nguyen,0.11,0
+6,2024-02-15,1089,Audífonos,Electrónica,2788.73,Efectivo,Port Charles,Jennifer Johnson,0.16,0
+7,2024-02-15,1491,Audífonos,Accesorios,2989.37,Efectivo,East Eric,Ryan Robertson,0.15,0
+8,2024-02-15,1198,Celular,Accesorios,2398.22,Tarjeta,Bethchester,Paula Stout,0.12,0
+9,2024-02-15,1361,Teclado,Electrónica,2273.52,Tarjeta,New Meganchester,Robert Finley,0.1,0
+10,2024-02-15,1440,Tablet,Electrónica,685.73,Transferencia,West Ashley,Michelle Contreras,0.03,0
+11,2024-02-15,1025,Laptop,Accesorios,1041.22,Tarjeta,Martinezview,Lindsay Smith,0.05,0
+12,2024-02-15,1024,Mouse,Tecnología,1423.76,Transferencia,Jeremiahberg,Briana White,0.08,0
+13,2024-02-15,1393,Teclado,Accesorios,2331.47,Tarjeta,Gibbsside,Terri Fields,0.12,0
+14,2024-02-15,1506,Tablet,Electrónica,2749.15,Transferencia,Gouldmouth,Jason Byrd,0.1,0
+15,2024-02-15,1300,Celular,Tecnología,607.96,Transferencia,Susanview,Christopher Adkins,0.06,0
+16,2024-02-15,1338,Tablet,Electrónica,2770.98,Transferencia,Nelsonchester,Nicholas Glover,0.0,0
+17,2024-02-15,1266,Tablet,Tecnología,2102.09,Transferencia,Reneetown,Morgan Santos,0.1,0
+18,2024-02-15,1460,Celular,Electrónica,1851.77,Efectivo,East Timothymouth,Amanda Thompson,0.06,0
+19,2024-02-15,1692,Audífonos,Tecnología,639.53,Transferencia,Pottsbury,Rachel James,0.15,0
+20,2024-02-15,1455,Audífonos,Tecnología,213.8,Tarjeta,Port Gregberg,James Harper,0.0,0
+21,2024-02-15,1359,Laptop,Electrónica,1726.97,Efectivo,Michelleland,Brenda Moreno,0.12,0
+22,2024-02-15,1067,Laptop,Tecnología,1971.97,Efectivo,East Brandy,Brianna Mcknight,0.19,0
+23,2024-02-15,1862,Audífonos,Accesorios,671.81,Transferencia,Leefurt,Mr. Jackson Russo DVM,0.03,0
+24,2024-02-15,1411,Teclado,Electrónica,1691.55,Efectivo,South Johnfurt,Natalie Ortiz,0.09,0
+25,2024-02-15,1970,Mouse,Accesorios,2576.66,Transferencia,Port Brady,Larry Lozano,0.02,0
+26,2024-02-15,1490,Tablet,Electrónica,2513.44,Tarjeta,Jessicastad,Connie Holland,0.13,0
+27,2024-02-15,1832,Mouse,Tecnología,2785.7,Transferencia,New Angela,Michael Wells,0.11,0
+28,2024-02-15,1048,Tablet,Tecnología,1129.36,Efectivo,West Rhonda,Daniel Burnett,0.08,0
+29,2024-02-15,1686,Audífonos,Tecnología,988.25,Tarjeta,Port Timothymouth,Harold Lindsey,0.1,0
+30,2024-02-15,1563,Laptop,Electrónica,2260.81,Transferencia,East Adam,Thomas Hughes,0.18,0
+31,2024-02-15,1101,Teclado,Accesorios,1321.78,Tarjeta,North Deborahburgh,Martha Campbell,0.04,0
+32,2024-02-15,1215,Laptop,Accesorios,308.27,Tarjeta,New Kyleburgh,Mark Crawford,0.0,0
+33,2024-02-15,1437,Mouse,Electrónica,884.26,Efectivo,Knightfurt,Stephanie Erickson,0.17,0
+34,2024-02-15,1699,Laptop,Electrónica,1284.82,Tarjeta,Michellemouth,Jerome Hutchinson,0.12,0
+35,2024-02-15,1568,Audífonos,Accesorios,912.92,Efectivo,Johnmouth,Natalie Knight,0.18,1
+36,2024-02-15,1558,Teclado,Accesorios,1030.01,Tarjeta,Christineside,Nicole Mason,0.12,0
+37,2024-02-15,1158,Mouse,Accesorios,916.64,Transferencia,West Richardside,Frank Holt,0.16,0
+38,2024-02-15,1488,Teclado,Accesorios,172.42,Tarjeta,North Jennifer,Gerald Cruz,0.09,0
+39,2024-02-15,1685,Tablet,Electrónica,1929.43,Transferencia,New Maryburgh,Rebecca Serrano,0.15,0
+40,2024-02-15,1241,Laptop,Electrónica,1812.01,Transferencia,East Mary,Kimberly Andrade,0.18,0
+41,2024-02-15,1793,Teclado,Tecnología,1977.48,Tarjeta,Wagnermouth,Gregory Dawson,0.11,0
+42,2024-02-15,1752,Celular,Accesorios,617.31,Transferencia,Carpenterborough,Jonathan Carroll,0.04,0
+43,2024-02-15,1881,Laptop,Tecnología,922.18,Tarjeta,Reedburgh,Valerie Liu,0.05,0
+44,2024-02-15,1004,Tablet,Electrónica,1877.87,Tarjeta,Mcdanielshire,Tara Williams,0.04,0
+45,2024-02-15,1595,Teclado,Electrónica,1818.9,Transferencia,East Ashleyland,Amy Jones,0.05,0
+46,2024-02-15,1819,Mouse,Tecnología,1543.67,Transferencia,Hoovermouth,Michele Macias,0.06,0
+47,2024-02-15,1360,Tablet,Accesorios,1083.72,Efectivo,Griffinchester,Angela Anderson,0.11,0
+48,2024-02-15,1458,Celular,Accesorios,2743.15,Transferencia,West Cameronmouth,Veronica Francis,0.12,0
+49,2024-02-15,1247,Teclado,Accesorios,1052.32,Efectivo,East Georgemouth,John Ford,0.09,0
+50,2024-02-15,1565,Audífonos,Accesorios,1394.08,Transferencia,Kristenburgh,Courtney Ho,0.12,1
+51,2024-02-15,1672,Laptop,Tecnología,2050.44,Tarjeta,Alyssachester,Ronnie Case,0.02,0
+52,2024-02-15,1945,Mouse,Tecnología,1651.91,Transferencia,East Melaniechester,Shelly Weiss,0.02,0
+53,2024-02-15,1421,Audífonos,Electrónica,1073.31,Tarjeta,West Mikefurt,Eric Martinez,0.03,0
+54,2024-02-15,1922,Teclado,Accesorios,1335.15,Tarjeta,Russellland,Alexandra Johnson DDS,0.1,0
+55,2024-02-15,1737,Teclado,Accesorios,2393.72,Tarjeta,Port Lisahaven,Shannon Howard,0.04,0
+56,2024-02-15,1014,Tablet,Accesorios,870.48,Efectivo,Port Joseph,Jessica Church,0.06,0
+57,2024-02-15,1735,Teclado,Tecnología,469.65,Transferencia,Mezatown,Christina Smith,0.08,0
+58,2024-02-15,1572,Mouse,Accesorios,973.83,Tarjeta,Port Chelseafurt,Kelli Carpenter MD,0.16,0
+59,2024-02-15,1121,Audífonos,Tecnología,2556.13,Tarjeta,Port Patriciamouth,Terry Mays,0.0,0
+60,2024-02-15,1276,Mouse,Accesorios,312.52,Efectivo,Edwardstad,Curtis Wheeler,0.13,0
+61,2024-02-15,1557,Celular,Accesorios,2975.5,Transferencia,South Jenniferberg,Alexander Walker,0.13,0
+62,2024-02-15,1452,Celular,Electrónica,1645.96,Transferencia,North Marioview,Robert Cruz,0.16,0
+63,2024-02-15,1389,Laptop,Accesorios,2955.29,Efectivo,West Tamaraview,Sandra Santana,0.19,0
+64,2024-02-15,1293,Laptop,Accesorios,2820.04,Efectivo,North Sarah,Christopher Clark,0.0,0
+65,2024-02-15,1573,Celular,Electrónica,1385.8,Transferencia,Ricardostad,Joy Beltran,0.03,0
+66,2024-02-15,1597,Teclado,Tecnología,635.55,Efectivo,Marytown,Anthony Cole,0.18,0
+67,2024-02-15,1445,Mouse,Tecnología,536.41,Transferencia,East Albert,Isaac Phillips,0.09,0
+68,2024-02-15,1209,Celular,Accesorios,757.97,Transferencia,Port Walter,Joseph Garcia,0.11,0
+69,2024-02-15,1589,Laptop,Tecnología,2144.89,Tarjeta,Perkinsborough,Randall Martinez,0.13,0
+70,2024-02-15,1713,Celular,Accesorios,855.2,Tarjeta,Port Tiffany,Kristine Mora,0.14,0
+71,2024-02-15,1301,Teclado,Electrónica,1057.2,Transferencia,Russellborough,Patrick Smith,0.19,0
+72,2024-02-15,1908,Celular,Electrónica,1373.9,Transferencia,Huffmanfurt,Lawrence Meyer,0.2,0
+73,2024-02-15,1222,Mouse,Accesorios,2744.04,Transferencia,Stephaniechester,Kristi Gibbs,0.14,0
+74,2024-02-15,1733,Audífonos,Electrónica,608.71,Transferencia,Port Alexandriaberg,Joshua Baldwin,0.06,0
+75,2024-02-15,1002,Teclado,Electrónica,64.83,Transferencia,Robinsonside,Douglas Sheppard,0.18,0
+76,2024-02-15,1989,Laptop,Accesorios,227.28,Transferencia,Andrewsville,Anthony Thompson,0.01,0
+77,2024-02-15,1517,Mouse,Accesorios,2719.06,Efectivo,Jacquelinechester,Jesse Garcia,0.05,0
+78,2024-02-15,1092,Celular,Electrónica,1960.17,Transferencia,New Arielberg,Scott Wells,0.18,0
+79,2024-02-15,1519,Celular,Tecnología,855.47,Efectivo,Port Andrew,Shelby Moran,0.05,0
+80,2024-02-15,1427,Audífonos,Tecnología,572.72,Efectivo,New Katherineport,Kenneth Walker,0.04,0
+81,2024-02-15,1492,Laptop,Accesorios,918.09,Transferencia,Wilsonfurt,Daniel Anderson,0.03,0
+82,2024-02-15,1234,Laptop,Accesorios,388.65,Transferencia,New Wesleymouth,Ricardo Price,0.17,0
+83,2024-02-15,1619,Tablet,Tecnología,2827.52,Efectivo,Lake Bruceberg,Timothy George,0.1,0
+84,2024-02-15,1160,Laptop,Electrónica,2363.41,Efectivo,South Gordon,David Miller,0.13,0
+85,2024-02-15,1720,Audífonos,Tecnología,1414.05,Transferencia,Schultzfurt,Andrew Howell,0.05,0
+86,2024-02-15,1751,Tablet,Tecnología,2601.64,Transferencia,Prattshire,Samantha Lamb,0.15,0
+87,2024-02-15,1330,Tablet,Tecnología,785.9,Efectivo,Lake Dylanland,Erin Marks,0.15,1
+88,2024-02-15,1332,Celular,Tecnología,2165.51,Efectivo,New Wandafurt,Benjamin Bass,0.06,0
+89,2024-02-15,1049,Celular,Accesorios,2575.59,Efectivo,Lake Keith,Samantha Best,0.08,0
+90,2024-02-15,1522,Laptop,Accesorios,1102.47,Tarjeta,West Lawrence,Jonathan Chambers,0.04,0
+91,2024-02-15,1862,Tablet,Electrónica,2284.52,Efectivo,South Joseph,Alexis Caldwell,0.2,0
+92,2024-02-15,1667,Celular,Electrónica,920.46,Tarjeta,West Bethany,Thomas Terry,0.13,0
+93,2024-02-15,1491,Audífonos,Electrónica,931.63,Transferencia,Lake Brenda,Luis Bowman MD,0.19,0
+94,2024-02-15,1581,Celular,Electrónica,365.82,Transferencia,North Frankburgh,William Williams,0.06,0
+95,2024-02-15,1680,Teclado,Tecnología,1348.17,Efectivo,Andreabury,Elizabeth Andrews,0.16,0
+96,2024-02-15,1271,Teclado,Accesorios,2202.65,Transferencia,North Kayla,Francisco Jacobs,0.15,0
+97,2024-02-15,1579,Celular,Accesorios,2823.65,Transferencia,Lake Kennethmouth,Matthew Watson,0.14,0
+98,2024-02-15,1866,Tablet,Electrónica,1831.2,Transferencia,Kristenborough,Michelle Howell,0.19,0
+99,2024-02-15,1251,Tablet,Electrónica,2596.25,Transferencia,Port Michael,Mary Webster,0.08,0
+100,2024-02-15,1559,Mouse,Tecnología,2476.36,Tarjeta,Port Douglas,Michael Campbell,0.03,0
+101,2024-02-15,1695,Teclado,Tecnología,561.36,Tarjeta,Lake Grace,Terry Hall,0.13,0
+102,2024-02-15,1831,Audífonos,Electrónica,1483.16,Efectivo,West Nicoleland,John Woods,0.15,0
+103,2024-02-15,1698,Tablet,Accesorios,394.92,Efectivo,South Christina,David Becker,0.12,0
+104,2024-02-15,1089,Laptop,Accesorios,2062.35,Efectivo,Elizabethside,Megan Parks,0.04,0
+105,2024-02-15,1445,Teclado,Accesorios,2852.2,Transferencia,Brownland,Lawrence Berry,0.1,0
+106,2024-02-15,1331,Audífonos,Electrónica,454.41,Transferencia,East Tammyfort,Susan Thompson,0.06,0
+107,2024-02-15,1138,Audífonos,Accesorios,2214.96,Tarjeta,Port Zacharyland,Robert Williams,0.09,0
+108,2024-02-15,1356,Tablet,Tecnología,1915.1,Tarjeta,East Robertchester,Janet Cooper,0.13,0
+109,2024-02-15,1600,Audífonos,Tecnología,1771.63,Efectivo,New Ryantown,Amanda Stephens MD,0.15,0
+110,2024-02-15,1273,Tablet,Electrónica,1200.85,Tarjeta,Port Collinmouth,Jon Rogers,0.05,0
+111,2024-02-15,1018,Celular,Tecnología,1097.64,Tarjeta,Smithberg,Danielle Miller,0.08,0
+112,2024-02-15,1982,Teclado,Electrónica,183.49,Tarjeta,Webbland,Amanda Nelson,0.05,0
+113,2024-02-15,1310,Mouse,Accesorios,692.83,Tarjeta,East Shannon,James Day,0.04,0
+114,2024-02-15,1869,Celular,Accesorios,94.77,Tarjeta,Noahmouth,Johnathan Brown,0.16,0
+115,2024-02-15,1885,Teclado,Accesorios,1765.18,Efectivo,East Laurenshire,Summer Sanchez,0.18,0
+116,2024-02-15,1977,Tablet,Tecnología,362.27,Efectivo,New Savannahmouth,Thomas Mills,0.07,0
+117,2024-02-15,1153,Teclado,Electrónica,2625.41,Tarjeta,Clarkshire,Karen Skinner,0.15,0
+118,2024-02-15,1389,Tablet,Accesorios,1593.27,Efectivo,Sanchezview,Kristen Knight,0.18,0
+119,2024-02-15,1259,Celular,Electrónica,2114.09,Transferencia,South Jennifer,Steven Lee,0.17,0
+120,2024-02-15,1619,Laptop,Accesorios,1262.03,Tarjeta,Johntown,Patricia King,0.04,0
+121,2024-02-15,1882,Laptop,Tecnología,1703.71,Transferencia,South Michaelville,Timothy Meza,0.19,0
+122,2024-02-15,1796,Teclado,Tecnología,2830.84,Efectivo,South Kathryn,Steven Wagner,0.08,1
+123,2024-02-15,1570,Laptop,Electrónica,294.07,Efectivo,New Alexander,Shirley Sharp,0.07,1
+124,2024-02-15,1124,Tablet,Tecnología,799.12,Transferencia,Ellistown,Robert Gardner,0.01,0
+125,2024-02-15,1353,Audífonos,Tecnología,2350.97,Efectivo,Perezmouth,Bryan Olson,0.1,0
+126,2024-02-15,1272,Tablet,Electrónica,341.27,Tarjeta,Port Davidbury,Terry Gonzalez,0.02,0
+127,2024-02-15,1618,Audífonos,Accesorios,273.2,Transferencia,New Darin,Miranda Mitchell,0.05,0
+128,2024-02-15,1810,Celular,Tecnología,1116.55,Tarjeta,Kevinville,Janet Mills,0.06,0
+129,2024-02-15,1244,Mouse,Electrónica,321.9,Transferencia,Smithton,Holly Smith,0.16,0
+130,2024-02-15,1847,Audífonos,Tecnología,1775.98,Efectivo,Jessicashire,Natalie Harvey,0.18,0
+131,2024-02-15,1449,Laptop,Tecnología,717.51,Transferencia,Lake Jamesport,Chad Crawford,0.06,0
+132,2024-02-15,1929,Tablet,Tecnología,2692.31,Transferencia,South Christopher,Joshua Stafford,0.17,0
+133,2024-02-15,1246,Celular,Tecnología,2361.33,Tarjeta,West Louismouth,Elizabeth King,0.17,0
+134,2024-02-15,1519,Laptop,Electrónica,2114.13,Efectivo,South Emily,Alexandra Harris,0.15,0
+135,2024-02-15,1140,Celular,Electrónica,1869.98,Tarjeta,Alejandrohaven,Christina Galvan,0.03,0
+136,2024-02-15,1361,Mouse,Electrónica,2597.22,Efectivo,Jenniferbury,Matthew Farmer,0.14,0
+137,2024-02-15,1007,Tablet,Tecnología,708.03,Tarjeta,West Nathan,William Clark,0.19,0
+138,2024-02-15,1477,Teclado,Tecnología,2625.67,Transferencia,West Jesseburgh,Rachel Duffy,0.14,0
+139,2024-02-15,1351,Tablet,Tecnología,2379.0,Tarjeta,New Noahbury,Rachel Rojas,0.07,0
+140,2024-02-15,1995,Mouse,Electrónica,2257.07,Efectivo,Port William,Brian Johnson PhD,0.1,0
+141,2024-02-15,1494,Tablet,Tecnología,1705.7,Efectivo,North Josephland,Jose Mays,0.13,0
+142,2024-02-15,1605,Teclado,Accesorios,776.42,Transferencia,South Kennethbury,Vanessa Lowery,0.1,0
+143,2024-02-15,1832,Audífonos,Tecnología,1299.47,Efectivo,Burnstown,Mikayla Vazquez,0.02,0
+144,2024-02-15,1426,Celular,Accesorios,2391.03,Tarjeta,Deanland,Roger Robertson,0.06,0
+145,2024-02-15,1038,Teclado,Tecnología,143.75,Transferencia,Jessicaview,Sarah Hartman,0.16,0
+146,2024-02-15,1592,Laptop,Electrónica,2357.05,Efectivo,Lake Alexandra,Amy Rios,0.17,0
+147,2024-02-15,1186,Mouse,Tecnología,758.21,Efectivo,Josephberg,Steve Rivera,0.03,1
+148,2024-02-15,1595,Audífonos,Accesorios,475.71,Tarjeta,Clinestad,Matthew Cunningham,0.19,0
+149,2024-02-15,1599,Laptop,Accesorios,391.32,Tarjeta,South Reginaburgh,Lee Wilson,0.07,0
+150,2024-02-15,1753,Laptop,Tecnología,130.39,Transferencia,Jasonland,Mary Carter,0.13,0
+151,2024-02-15,1853,Mouse,Accesorios,1594.58,Efectivo,Sharpborough,Edward Arroyo,0.15,0
+152,2024-02-15,1092,Audífonos,Accesorios,693.87,Tarjeta,Andersonstad,Tanya Nelson,0.16,0
+153,2024-02-15,1085,Laptop,Electrónica,2968.82,Transferencia,Brianside,Crystal Brown,0.19,0
+154,2024-02-15,1043,Laptop,Tecnología,1744.59,Efectivo,Kellyfort,Rachel Hamilton,0.06,0
+155,2024-02-15,1136,Audífonos,Tecnología,456.76,Efectivo,Carterview,Jeffrey Rose,0.17,0
+156,2024-02-15,1420,Tablet,Tecnología,2081.85,Transferencia,Annborough,Eric Schultz,0.03,0
+157,2024-02-15,1073,Laptop,Accesorios,2698.34,Transferencia,West Johnport,Kim Reed,0.14,0
+158,2024-02-15,1547,Celular,Tecnología,2248.28,Tarjeta,New Robin,Frank Fox,0.15,0
+159,2024-02-15,1612,Audífonos,Tecnología,275.5,Efectivo,North Tina,Jeremy Conway,0.14,0
+160,2024-02-15,1987,Laptop,Electrónica,2692.86,Efectivo,West Stephanie,Peter Snyder,0.05,0
+161,2024-02-15,1511,Mouse,Electrónica,2392.09,Efectivo,Lancemouth,Kathleen Lee,0.17,0
+162,2024-02-15,1155,Teclado,Electrónica,517.0,Transferencia,South Ericburgh,Dustin Anderson,0.03,0
+163,2024-02-15,1937,Celular,Accesorios,202.77,Tarjeta,South Manuel,Amy Potts,0.01,0
+164,2024-02-15,1254,Teclado,Tecnología,1694.07,Efectivo,West Heatherton,Mary Murray,0.14,0
+165,2024-02-15,1170,Teclado,Electrónica,510.31,Transferencia,Johnsonmouth,Jason Gomez,0.1,0
+166,2024-02-15,1980,Laptop,Electrónica,2512.04,Efectivo,New Natasha,Lorraine Stone,0.17,0
+167,2024-02-15,1727,Celular,Electrónica,1107.09,Tarjeta,Port Teresa,David Ruiz,0.08,0
+168,2024-02-15,1169,Celular,Tecnología,2743.03,Efectivo,New Anthonyville,Andrew James,0.03,0
+169,2024-02-15,1763,Tablet,Tecnología,1718.78,Tarjeta,Kochland,Stephanie Campbell,0.17,0
+170,2024-02-15,1871,Teclado,Tecnología,588.88,Tarjeta,North Micheal,George Baldwin,0.11,0
+171,2024-02-15,1321,Celular,Accesorios,461.82,Efectivo,Longfurt,Charles Dorsey,0.04,0
+172,2024-02-15,1566,Tablet,Accesorios,1750.59,Efectivo,Christophermouth,Mrs. Tracy Schroeder,0.14,0
+173,2024-02-15,1455,Audífonos,Electrónica,2297.56,Tarjeta,West Richardburgh,Mr. Richard Reyes MD,0.1,0
+174,2024-02-15,1943,Tablet,Tecnología,2355.44,Transferencia,Nathanielview,Mark Huerta,0.12,0
+175,2024-02-15,1602,Mouse,Electrónica,863.48,Tarjeta,North Kimberly,Thomas Evans,0.09,0
+176,2024-02-15,1789,Laptop,Tecnología,652.53,Efectivo,North Teresa,Jacob Marshall,0.17,0
+177,2024-02-15,1612,Audífonos,Tecnología,99.43,Efectivo,East Justinberg,Autumn Vang,0.17,0
+178,2024-02-15,1154,Audífonos,Tecnología,2053.64,Transferencia,Christinaborough,Matthew Thompson,0.14,1
+179,2024-02-15,1888,Mouse,Accesorios,275.88,Tarjeta,Franciscoland,Samantha Curtis,0.02,0
+180,2024-02-15,1348,Tablet,Accesorios,1291.25,Tarjeta,Bryanview,Jason Jordan,0.17,0
+181,2024-02-15,1450,Laptop,Tecnología,1824.96,Tarjeta,East Daniel,Tina Mendez,0.13,0
+182,2024-02-15,1875,Tablet,Electrónica,2814.47,Efectivo,Estradashire,Peter Kelly,0.14,0
+183,2024-02-15,1652,Celular,Tecnología,969.82,Tarjeta,Walkershire,Steven Brown,0.07,0
+184,2024-02-15,1172,Tablet,Tecnología,786.83,Transferencia,Robertsfurt,Timothy Miller,0.18,0
+185,2024-02-15,1009,Audífonos,Electrónica,1979.77,Efectivo,Barronmouth,Erin Davis,0.15,0
+186,2024-02-15,1739,Laptop,Tecnología,1876.76,Efectivo,South Teresa,George Parrish,0.02,0
+187,2024-02-15,1264,Tablet,Electrónica,1029.72,Tarjeta,Port Annfort,Samuel Luna III,0.08,0
+188,2024-02-15,1437,Laptop,Accesorios,2787.9,Transferencia,Lake Mark,Vincent Mitchell,0.18,0
+189,2024-02-15,1759,Laptop,Accesorios,2542.34,Efectivo,South Joshuastad,Nicholas Pierce,0.01,0
+190,2024-02-15,1246,Celular,Electrónica,710.75,Efectivo,Davidchester,Teresa Hines,0.19,0
+191,2024-02-15,1666,Celular,Accesorios,755.47,Tarjeta,Larsonport,Richard Johns,0.14,0
+192,2024-02-15,1545,Audífonos,Accesorios,1561.29,Tarjeta,Levinestad,Scott Green,0.13,0
+193,2024-02-15,1498,Mouse,Electrónica,2332.04,Transferencia,Jenningsbury,Jordan Savage,0.05,0
+194,2024-02-15,1128,Laptop,Accesorios,179.92,Tarjeta,Caroltown,Michael Moreno,0.05,0
+195,2024-02-15,1671,Mouse,Tecnología,2095.34,Transferencia,Gainesbury,Stephen Marshall,0.19,0
+196,2024-02-15,1600,Audífonos,Tecnología,1962.3,Efectivo,Davidton,Douglas Miles,0.06,0
+197,2024-02-15,1604,Laptop,Electrónica,732.87,Transferencia,East Wendyville,Jennifer Diaz,0.16,0
+198,2024-02-15,1326,Laptop,Accesorios,2059.99,Transferencia,Port Reginald,Casey Shea,0.08,0
+199,2024-02-15,1752,Teclado,Tecnología,2823.54,Transferencia,Dianechester,Crystal Barrett,0.03,0
+200,2024-02-15,1834,Mouse,Tecnología,188.02,Efectivo,New Gregorytown,Maria Smith,0.0,0
+201,2024-02-15,1979,Tablet,Accesorios,992.97,Tarjeta,Lake Lisa,Jasmine Harris,0.11,0
+202,2024-02-15,1403,Celular,Accesorios,1342.62,Efectivo,Andersonmouth,Terry Ochoa,0.2,0
+203,2024-02-15,1628,Tablet,Tecnología,2702.82,Tarjeta,Lake Franktown,Kelsey Lara,0.07,0
+204,2024-02-15,1605,Mouse,Tecnología,2888.67,Transferencia,West Meganfurt,Martin Lam,0.07,0
+205,2024-02-15,1674,Celular,Electrónica,1360.14,Transferencia,New Dana,Nathan Carroll,0.07,0
+206,2024-02-15,1610,Tablet,Electrónica,2262.58,Transferencia,North Patriciamouth,Jason Lane,0.1,0
+207,2024-02-15,1624,Teclado,Tecnología,1618.4,Transferencia,New Michellestad,Denise Fuller,0.09,0
+208,2024-02-15,1358,Celular,Electrónica,1636.46,Transferencia,Thomasbury,Jessica Williams,0.18,0
+209,2024-02-15,1602,Laptop,Tecnología,870.39,Tarjeta,Goldenberg,Morgan Price,0.1,0
+210,2024-02-15,1857,Tablet,Tecnología,690.02,Tarjeta,Darylport,Andrea Carr,0.1,0
+211,2024-02-15,1717,Celular,Electrónica,899.62,Transferencia,Levineland,Maureen Bates,0.03,0
+212,2024-02-15,1016,Teclado,Electrónica,1691.17,Efectivo,West Tyronetown,Jessica Horton,0.2,0
+213,2024-02-15,1273,Celular,Accesorios,136.01,Efectivo,Jonathantown,Kelsey Mercado,0.05,0
+214,2024-02-15,1684,Celular,Accesorios,2726.38,Transferencia,Smallport,Marc Torres,0.01,1
+215,2024-02-15,1115,Teclado,Accesorios,511.04,Tarjeta,Waltonchester,Jeremy Hanson,0.13,0
+216,2024-02-15,1860,Tablet,Tecnología,699.26,Efectivo,Lake Daniellebury,Joseph Rodriguez,0.12,0
+217,2024-02-15,1979,Audífonos,Electrónica,1578.91,Efectivo,Ginaview,Andrew Walters,0.08,1
+218,2024-02-15,1692,Tablet,Tecnología,2144.84,Efectivo,Ashleyfort,Theodore Buck,0.08,0
+219,2024-02-15,1090,Mouse,Electrónica,332.4,Transferencia,South Janeberg,Adam Schroeder,0.16,0
+220,2024-02-15,1081,Teclado,Tecnología,987.2,Efectivo,Port Peter,Lynn Martinez,0.04,0
+221,2024-02-15,1323,Tablet,Accesorios,2907.59,Efectivo,West Gregoryville,Evan Rogers,0.16,0
+222,2024-02-15,1960,Celular,Accesorios,823.91,Efectivo,Sullivanburgh,Isaac Mendoza,0.13,0
+223,2024-02-15,1113,Teclado,Accesorios,973.5,Efectivo,New Jenniferview,Lance Perez,0.08,0
+224,2024-02-15,1768,Laptop,Tecnología,2517.67,Tarjeta,Carneyton,Darlene Reed,0.09,0
+225,2024-02-15,1057,Tablet,Electrónica,198.13,Transferencia,Starkview,Deborah Taylor,0.05,0
+226,2024-02-15,1153,Teclado,Electrónica,1420.61,Transferencia,West Harold,Beth Meyer,0.15,0
+227,2024-02-15,1876,Tablet,Accesorios,1169.87,Tarjeta,North Michaelberg,Leslie Hebert,0.1,0
+228,2024-02-15,1403,Teclado,Accesorios,983.93,Tarjeta,Robertchester,George Goodman,0.06,0
+229,2024-02-15,1627,Celular,Accesorios,892.81,Transferencia,South Davidport,Morgan Hicks,0.12,0
+230,2024-02-15,1854,Laptop,Accesorios,319.55,Efectivo,Leonardmouth,Michael Lyons,0.2,0
+231,2024-02-15,1265,Laptop,Electrónica,978.74,Efectivo,Port Kimberly,Garrett Clarke,0.09,0
+232,2024-02-15,1314,Mouse,Tecnología,177.0,Transferencia,Brownington,Michelle Pierce,0.18,0
+233,2024-02-15,1714,Teclado,Tecnología,2353.84,Efectivo,Lake Julie,Anne Hatfield,0.07,0
+234,2024-02-15,1040,Tablet,Tecnología,1224.77,Tarjeta,Julieburgh,Christine Morgan,0.01,0
+235,2024-02-15,1104,Laptop,Tecnología,1359.52,Efectivo,South Jenniferport,Timothy Rowe,0.04,0
+236,2024-02-15,1900,Laptop,Accesorios,2686.1,Efectivo,New Robertport,Brittney Knight,0.08,0
+237,2024-02-15,1889,Audífonos,Accesorios,1991.26,Efectivo,South Charles,Christine Young,0.04,0
+238,2024-02-15,1192,Audífonos,Accesorios,73.77,Transferencia,Mooreport,Candace Padilla,0.0,0
+239,2024-02-15,1400,Laptop,Tecnología,2832.37,Tarjeta,Port Lindseyville,Lisa Brown,0.18,0
+240,2024-02-15,1277,Teclado,Accesorios,749.58,Efectivo,North Matthewchester,Brooke Davis,0.17,0
+241,2024-02-15,1353,Mouse,Accesorios,367.46,Transferencia,Port Hannah,Matthew Sanchez,0.15,0
+242,2024-02-15,1748,Laptop,Electrónica,2315.98,Efectivo,Port Nicholasshire,Chelsea Mills,0.03,0
+243,2024-02-15,1936,Celular,Electrónica,1526.41,Tarjeta,New Sara,William Douglas,0.02,0
+244,2024-02-15,1732,Tablet,Accesorios,1329.62,Efectivo,Johnfurt,Daniel Zavala,0.01,0
+245,2024-02-15,1579,Mouse,Electrónica,786.03,Tarjeta,West Meghanside,Anthony Mason,0.14,0
+246,2024-02-15,1708,Celular,Electrónica,1665.04,Efectivo,Nguyenton,Susan Murphy,0.19,0
+247,2024-02-15,1255,Mouse,Accesorios,859.43,Tarjeta,Darleneburgh,Adrian Vazquez,0.09,0
+248,2024-02-15,1650,Celular,Accesorios,2709.67,Efectivo,Lake Julie,Nicholas Anderson,0.02,0
+249,2024-02-15,1823,Tablet,Accesorios,684.85,Tarjeta,Hansonmouth,Christopher Williams,0.1,0
+250,2024-02-15,1946,Tablet,Accesorios,2658.85,Efectivo,Jasonland,Alan Burgess,0.07,0
+251,2024-02-15,1660,Audífonos,Tecnología,1700.25,Efectivo,Port Charlesburgh,James Dominguez,0.07,0
+252,2024-02-15,1098,Teclado,Tecnología,2494.04,Transferencia,North Kennethton,Sara Mcpherson,0.12,0
+253,2024-02-15,1587,Celular,Accesorios,2152.9,Transferencia,South Jasonborough,Theresa Brennan,0.14,1
+254,2024-02-15,1281,Audífonos,Electrónica,2105.25,Tarjeta,Port Cindy,Jermaine Sanchez,0.02,0
+255,2024-02-15,1882,Celular,Accesorios,1006.82,Efectivo,New Amber,Andrew Noble,0.01,0
+256,2024-02-15,1402,Audífonos,Accesorios,740.0,Tarjeta,Lake Seth,Benjamin Green,0.2,0
+257,2024-02-15,1108,Tablet,Electrónica,672.11,Transferencia,Patrickfurt,Samantha Sanchez,0.05,0
+258,2024-02-15,1699,Mouse,Tecnología,2578.72,Tarjeta,Port Ricardo,Andrew Cain,0.01,0
+259,2024-02-15,1198,Audífonos,Accesorios,2470.26,Tarjeta,Nancyside,Karen Mayer,0.04,0
+260,2024-02-15,1302,Celular,Accesorios,1349.69,Transferencia,Paulchester,Kenneth Sanders,0.01,0
+261,2024-02-15,1326,Celular,Tecnología,440.59,Efectivo,East Christianborough,Justin Hammond,0.08,0
+262,2024-02-15,1153,Teclado,Tecnología,1177.64,Tarjeta,Bellborough,Heidi Wright,0.16,0
+263,2024-02-15,1551,Tablet,Electrónica,1877.06,Transferencia,East Diane,Rachel Green,0.07,0
+264,2024-02-15,1644,Celular,Tecnología,1390.49,Efectivo,Teresastad,Amanda Frazier,0.09,1
+265,2024-02-15,1404,Laptop,Tecnología,2351.56,Transferencia,Erinhaven,Kelly Lee,0.14,0
+266,2024-02-15,1461,Mouse,Tecnología,2992.99,Tarjeta,Shariville,Tracie Allen,0.1,0
+267,2024-02-15,1131,Audífonos,Electrónica,613.84,Efectivo,Smithstad,Dominique Burns,0.17,0
+268,2024-02-15,1790,Teclado,Tecnología,1405.97,Efectivo,Perezberg,William Espinoza,0.17,0
+269,2024-02-15,1873,Mouse,Tecnología,1321.4,Transferencia,Murraymouth,Cheryl Hernandez,0.0,0
+270,2024-02-15,1083,Tablet,Electrónica,948.25,Transferencia,Port Justin,Joseph Lawrence,0.16,0
+271,2024-02-15,1398,Teclado,Tecnología,634.38,Transferencia,Deckerfurt,Dylan Taylor,0.09,0
+272,2024-02-15,1753,Audífonos,Tecnología,243.79,Efectivo,North Maria,Pamela Martinez DDS,0.2,0
+273,2024-02-15,1627,Audífonos,Electrónica,2667.0,Efectivo,Sandrafurt,Shane Greene,0.1,0
+274,2024-02-15,1108,Laptop,Accesorios,1288.55,Tarjeta,New Walterport,Monique Gould PhD,0.2,0
+275,2024-02-15,1220,Tablet,Electrónica,1515.84,Efectivo,East Ethanstad,Aaron Cameron,0.15,0
+276,2024-02-15,1903,Teclado,Tecnología,2754.98,Tarjeta,New Michael,Jon Hunt,0.05,0
+277,2024-02-15,1552,Teclado,Tecnología,2340.06,Transferencia,Jenniferhaven,Roberto Lewis,0.11,1
+278,2024-02-15,1367,Celular,Tecnología,434.98,Transferencia,Martinburgh,Jeffrey Walls,0.2,0
+279,2024-02-15,1146,Laptop,Electrónica,1717.99,Efectivo,Lake Hollyfurt,Madison Lambert,0.17,0
+280,2024-02-15,1111,Laptop,Tecnología,1354.64,Transferencia,New Melissatown,Matthew Hernandez,0.02,0
+281,2024-02-15,1614,Teclado,Tecnología,2401.77,Transferencia,North Candace,Robert Martinez,0.14,0
+282,2024-02-15,1557,Teclado,Electrónica,2186.49,Efectivo,East Stephenhaven,Molly Strong,0.07,0
+283,2024-02-15,1923,Mouse,Accesorios,2086.7,Tarjeta,Diazfurt,Anthony Wall,0.0,0
+284,2024-02-15,1493,Mouse,Accesorios,1054.61,Efectivo,Benjaminborough,Dwayne Watkins,0.08,0
+285,2024-02-15,1504,Mouse,Tecnología,2424.64,Tarjeta,North Courtney,Pamela Weiss,0.05,0
+286,2024-02-15,1474,Laptop,Electrónica,204.55,Efectivo,New Tara,Gina Washington,0.16,0
+287,2024-02-15,1835,Celular,Tecnología,520.89,Efectivo,Jeffreyfurt,Thomas Jackson,0.07,0
+288,2024-02-15,1889,Audífonos,Electrónica,1040.09,Transferencia,Thompsonfurt,Christopher Bryant,0.17,0
+289,2024-02-15,1270,Mouse,Electrónica,276.58,Efectivo,Davidshire,Erik Jackson,0.0,0
+290,2024-02-15,1994,Celular,Accesorios,743.23,Efectivo,Kennedyborough,Kathleen Montgomery,0.06,0
+291,2024-02-15,1420,Tablet,Accesorios,2498.95,Tarjeta,Sherryburgh,Bryan Fowler,0.05,0
+292,2024-02-15,1896,Mouse,Electrónica,2847.34,Transferencia,West Kathleen,Cynthia West,0.05,0
+293,2024-02-15,1706,Audífonos,Tecnología,948.58,Tarjeta,Brownside,Nicholas Daniel,0.01,1
+294,2024-02-15,1366,Tablet,Accesorios,830.32,Tarjeta,New Juliafort,Elizabeth Rich,0.04,0
+295,2024-02-15,1279,Tablet,Tecnología,875.68,Transferencia,New Angela,Debbie Nguyen,0.11,0
+296,2024-02-15,1282,Audífonos,Accesorios,869.27,Transferencia,Lake Michael,Scott Cole,0.06,0
+297,2024-02-15,1039,Mouse,Accesorios,155.99,Transferencia,Petersonfort,Timothy Taylor,0.08,0
+298,2024-02-15,1958,Laptop,Tecnología,2784.4,Efectivo,New Kennethchester,Bradley Zhang,0.08,0
+299,2024-02-15,1188,Audífonos,Accesorios,680.41,Transferencia,Port Kimberlyland,Craig Stevens,0.18,1
+300,2024-02-15,1163,Audífonos,Accesorios,1289.01,Transferencia,Amandaburgh,Marcus Nunez,0.18,0
+301,2024-02-15,1993,Audífonos,Tecnología,78.58,Transferencia,North Garytown,Adam Johnston,0.1,0
+302,2024-02-15,1988,Tablet,Accesorios,2580.97,Tarjeta,Matthewmouth,Jared Perez,0.07,0
+303,2024-02-15,1535,Celular,Accesorios,2206.91,Tarjeta,Michellefort,Amanda Clark,0.02,0
+304,2024-02-15,1535,Laptop,Accesorios,2842.93,Efectivo,New Kathleen,Daniel Gomez,0.19,0
+305,2024-02-15,1003,Mouse,Tecnología,2355.77,Tarjeta,Seanville,Alexis Gibson,0.01,0
+306,2024-02-15,1834,Mouse,Electrónica,975.43,Efectivo,North Paul,Bryan Odom,0.06,0
+307,2024-02-15,1289,Celular,Tecnología,781.23,Tarjeta,Lake Dominique,Anthony Warner,0.06,0
+308,2024-02-15,1952,Audífonos,Electrónica,2108.26,Transferencia,Larryland,John Carter,0.06,0
+309,2024-02-15,1432,Laptop,Accesorios,1124.13,Tarjeta,Nicholashaven,Duane Guzman,0.03,0
+310,2024-02-15,1470,Mouse,Electrónica,1720.33,Efectivo,Youngstad,David Adams,0.16,0
+311,2024-02-15,1180,Teclado,Tecnología,68.46,Tarjeta,Alexanderchester,Melissa Richmond,0.02,0
+312,2024-02-15,1247,Mouse,Tecnología,232.56,Transferencia,Kennethport,Jonathan Ponce,0.13,0
+313,2024-02-15,1627,Audífonos,Accesorios,1629.34,Efectivo,Yuburgh,Alexander Ross,0.02,0
+314,2024-02-15,1278,Teclado,Electrónica,1719.91,Transferencia,Heathermouth,Erin Carrillo,0.01,0
+315,2024-02-15,1876,Celular,Accesorios,2266.79,Transferencia,Kristinview,Cassandra Martinez,0.18,0
+316,2024-02-15,1580,Laptop,Accesorios,439.3,Efectivo,Johnstontown,Rebecca Mitchell,0.04,0
+317,2024-02-15,1862,Celular,Tecnología,1563.89,Transferencia,Harrisview,April Johnson,0.16,0
+318,2024-02-15,1253,Celular,Electrónica,623.62,Transferencia,North Andrewmouth,Cindy Craig,0.11,0
+319,2024-02-15,1180,Laptop,Electrónica,324.93,Tarjeta,Lake Wesley,Tammie Ford,0.02,0
+320,2024-02-15,1829,Laptop,Electrónica,1260.96,Transferencia,Smithburgh,Juan Kirk,0.19,0
+321,2024-02-15,1680,Mouse,Electrónica,531.84,Transferencia,South Heatherstad,Michelle Sanchez,0.05,0
+322,2024-02-15,1824,Mouse,Accesorios,704.26,Transferencia,Lake Andreaborough,Victor Becker,0.17,0
+323,2024-02-15,1508,Laptop,Accesorios,986.79,Transferencia,Josephberg,David Wilson,0.03,0
+324,2024-02-15,1760,Teclado,Tecnología,815.2,Efectivo,Kristinaside,John Price,0.17,0
+325,2024-02-15,1699,Tablet,Accesorios,308.39,Tarjeta,South Nicholasview,Joseph Jones,0.0,0
+326,2024-02-15,1565,Mouse,Accesorios,315.25,Transferencia,South Scott,Steven Crawford,0.1,1
+327,2024-02-15,1325,Tablet,Tecnología,620.09,Transferencia,New Gregory,Dominic Bailey,0.15,0
+328,2024-02-15,1356,Teclado,Tecnología,199.15,Efectivo,Shannonville,Cassidy Moreno,0.19,0
+329,2024-02-15,1824,Laptop,Tecnología,1898.05,Transferencia,North Tinaton,Jason Olson,0.18,0
+330,2024-02-15,1649,Teclado,Accesorios,897.61,Efectivo,Nicoleview,Christian Curtis,0.16,1
+331,2024-02-15,1679,Mouse,Accesorios,875.25,Tarjeta,Jonathanberg,Hector Baker,0.18,0
+332,2024-02-15,1390,Celular,Tecnología,1029.39,Tarjeta,Hamiltonside,Julia Foster,0.04,0
+333,2024-02-15,1614,Laptop,Tecnología,2005.25,Transferencia,East Bradley,Cathy Bush,0.06,0
+334,2024-02-15,1933,Audífonos,Tecnología,2618.37,Transferencia,West Maria,Savannah Washington,0.06,0
+335,2024-02-15,1084,Tablet,Accesorios,2289.31,Transferencia,Christinabury,Kevin Huffman,0.08,0
+336,2024-02-15,1316,Teclado,Accesorios,2196.21,Efectivo,Masonfort,David Mora,0.08,1
+337,2024-02-15,1211,Laptop,Electrónica,1478.95,Transferencia,North Kevinton,Luke Cummings,0.11,0
+338,2024-02-15,1514,Teclado,Accesorios,2096.73,Transferencia,Ibarraland,Jason Nielsen,0.03,0
+339,2024-02-15,1383,Laptop,Accesorios,1680.65,Tarjeta,Lunamouth,Holly Garcia,0.14,0
+340,2024-02-15,1690,Mouse,Accesorios,687.94,Transferencia,Torresville,Catherine Stein PhD,0.03,0
+341,2024-02-15,1341,Mouse,Tecnología,665.34,Tarjeta,Lisaton,Peter Robinson,0.06,0
+342,2024-02-15,1814,Mouse,Accesorios,924.36,Transferencia,New Christian,Michael Thornton,0.1,0
+343,2024-02-15,1963,Teclado,Tecnología,2736.87,Tarjeta,West Sarahtown,Kari Brown,0.16,0
+344,2024-02-15,1987,Audífonos,Electrónica,1664.87,Transferencia,Parktown,Sydney Arnold,0.15,0
+345,2024-02-15,1843,Mouse,Electrónica,2215.02,Tarjeta,Stevenport,Tony Johnson,0.13,0
+346,2024-02-15,1037,Laptop,Tecnología,1072.35,Efectivo,Wilsonton,Matthew Freeman,0.03,0
+347,2024-02-15,1510,Mouse,Tecnología,1252.76,Tarjeta,Katherineport,Mr. Michael Fry,0.11,1
+348,2024-02-15,1419,Celular,Tecnología,420.42,Tarjeta,Lake Arthurstad,Malik Stevenson,0.02,0
+349,2024-02-15,1750,Mouse,Accesorios,555.32,Tarjeta,Michaelport,Crystal Stone,0.08,0
+350,2024-02-15,1168,Teclado,Electrónica,2490.7,Transferencia,New Victoriaside,Tina Jones,0.08,0
+351,2024-02-15,1964,Audífonos,Tecnología,1775.27,Transferencia,Port Oscar,Billy Jones,0.01,0
+352,2024-02-15,1908,Celular,Accesorios,1045.72,Transferencia,Andrewside,John Hodges,0.05,0
+353,2024-02-15,1342,Teclado,Electrónica,2418.41,Efectivo,Davidbury,Dawn Good,0.19,0
+354,2024-02-15,1825,Teclado,Accesorios,777.23,Efectivo,South Kyletown,Lee Nguyen,0.19,0
+355,2024-02-15,1305,Teclado,Electrónica,2929.3,Tarjeta,West Linda,Christopher Edwards,0.07,0
+356,2024-02-15,1541,Laptop,Accesorios,1067.21,Efectivo,Lake Joseph,Mr. Ralph Ryan MD,0.01,0
+357,2024-02-15,1701,Teclado,Electrónica,1045.07,Tarjeta,Foxfort,Alice Kramer,0.04,1
+358,2024-02-15,1868,Laptop,Electrónica,970.14,Tarjeta,Andersonhaven,Anne Mcclure DDS,0.08,0
+359,2024-02-15,1536,Teclado,Accesorios,410.23,Tarjeta,Devinport,Robert Davis,0.19,0
+360,2024-02-15,1111,Tablet,Tecnología,377.85,Efectivo,Troymouth,David Le,0.03,0
+361,2024-02-15,1410,Celular,Electrónica,1961.91,Transferencia,West Rebecca,Bryan Harvey,0.15,0
+362,2024-02-15,1946,Tablet,Tecnología,2631.6,Efectivo,East Debbie,Elizabeth Bartlett,0.02,0
+363,2024-02-15,1205,Teclado,Accesorios,2382.04,Tarjeta,Martinezmouth,Kimberly Smith,0.2,0
+364,2024-02-15,1184,Celular,Tecnología,466.27,Tarjeta,North Daleville,Stephen Johnson,0.08,1
+365,2024-02-15,1381,Celular,Tecnología,1659.47,Efectivo,Peggyborough,Jordan Campbell,0.16,0
+366,2024-02-15,1495,Audífonos,Tecnología,361.5,Tarjeta,South Tonya,Johnny Williams,0.07,0
+367,2024-02-15,1378,Tablet,Tecnología,183.62,Tarjeta,Lake Brianport,Jessica Farrell,0.13,0
+368,2024-02-15,1046,Audífonos,Tecnología,1986.34,Efectivo,Barbarastad,Denise Sherman,0.04,0
+369,2024-02-15,1885,Celular,Electrónica,1628.7,Efectivo,Dyerstad,Jaclyn May,0.03,0
+370,2024-02-15,1739,Laptop,Electrónica,291.97,Efectivo,North Brandyland,William Lee,0.19,1
+371,2024-02-15,1550,Celular,Electrónica,153.07,Tarjeta,Cookeborough,Bobby Norman,0.18,0
+372,2024-02-15,1527,Audífonos,Accesorios,2969.78,Tarjeta,West Patrick,Scott Rice,0.18,0
+373,2024-02-15,1503,Tablet,Tecnología,138.56,Transferencia,West Patricia,Joshua Marshall,0.13,0
+374,2024-02-15,1021,Teclado,Electrónica,1361.36,Transferencia,Brianmouth,Kristin Paul,0.16,0
+375,2024-02-15,1212,Teclado,Accesorios,1538.63,Efectivo,Williston,Tyrone Sutton,0.01,0
+376,2024-02-15,1309,Tablet,Electrónica,395.98,Transferencia,Colemanport,Theresa Berger,0.07,0
+377,2024-02-15,1660,Teclado,Electrónica,548.73,Tarjeta,Wendyfurt,Zachary Mathews,0.06,0
+378,2024-02-15,1967,Teclado,Tecnología,1087.82,Transferencia,Barberland,Eduardo Martin,0.13,1
+379,2024-02-15,1752,Audífonos,Accesorios,2296.94,Tarjeta,Port Emilytown,Brandy Gibson,0.07,0
+380,2024-02-15,1271,Tablet,Tecnología,1545.89,Efectivo,Brownville,Shannon Santana,0.03,0
+381,2024-02-15,1570,Mouse,Tecnología,1931.81,Efectivo,Stanleymouth,Carl Webb,0.12,0
+382,2024-02-15,1798,Laptop,Electrónica,2956.26,Tarjeta,West Johnfort,Diane Ashley,0.16,0
+383,2024-02-15,1937,Laptop,Tecnología,2315.62,Transferencia,South George,David Guzman,0.08,0
+384,2024-02-15,1201,Teclado,Accesorios,1331.37,Efectivo,West Brittany,Victoria Wilson,0.03,0
+385,2024-02-15,1031,Laptop,Tecnología,1367.0,Efectivo,Lake Deniseshire,Jason Cruz,0.04,0
+386,2024-02-15,1442,Tablet,Tecnología,1875.38,Transferencia,Leslieburgh,David Wilson,0.05,0
+387,2024-02-15,1161,Tablet,Tecnología,2012.83,Transferencia,North Justintown,Jessica Garcia,0.06,0
+388,2024-02-15,1766,Celular,Electrónica,1527.1,Tarjeta,West Rachelfurt,Frances Reyes,0.13,0
+389,2024-02-15,1253,Celular,Accesorios,1952.34,Transferencia,New Michele,Kimberly Welch,0.12,0
+390,2024-02-15,1520,Laptop,Electrónica,119.42,Transferencia,East Katherine,Paula Gardner,0.14,0
+391,2024-02-15,1976,Mouse,Electrónica,1317.39,Transferencia,New Davidchester,Melissa Ramirez,0.07,0
+392,2024-02-15,1650,Celular,Electrónica,872.87,Tarjeta,Nguyenberg,Lisa Henry,0.16,0
+393,2024-02-15,1479,Celular,Electrónica,431.06,Tarjeta,North Michaelshire,Brandon Cox,0.04,0
+394,2024-02-15,1009,Tablet,Electrónica,343.66,Efectivo,Shermanborough,Todd Gray,0.09,0
+395,2024-02-15,1725,Mouse,Accesorios,1829.42,Tarjeta,South Eric,Louis Martin,0.16,0
+396,2024-02-15,1504,Teclado,Tecnología,1594.62,Efectivo,West Rodneychester,Ashley Davis,0.04,0
+397,2024-02-15,1784,Laptop,Electrónica,798.07,Transferencia,South Bryan,Sharon Rodriguez,0.02,0
+398,2024-02-15,1835,Celular,Electrónica,1439.3,Efectivo,South Evan,Melissa Dorsey,0.18,0
+399,2024-02-15,1559,Mouse,Accesorios,1502.09,Efectivo,West Steven,Jesse Johnson,0.07,0
+400,2024-02-15,1435,Mouse,Accesorios,625.28,Transferencia,North Darlenechester,Ricky Powell,0.14,1
+401,2024-02-15,1110,Laptop,Tecnología,1973.67,Efectivo,East Antoniobury,John Freeman,0.01,0
+402,2024-02-15,1152,Mouse,Accesorios,2353.71,Tarjeta,South Ericamouth,Albert Salazar,0.14,0
+403,2024-02-15,1634,Mouse,Tecnología,2384.82,Tarjeta,Smithstad,Tim Schneider,0.06,0
+404,2024-02-15,1916,Mouse,Electrónica,1827.29,Tarjeta,Stephaniefort,Hannah White,0.01,0
+405,2024-02-15,1868,Celular,Electrónica,1559.33,Tarjeta,Jeremyview,Terri Mills,0.12,0
+406,2024-02-15,1101,Laptop,Tecnología,229.97,Efectivo,North Shannon,Valerie Pham,0.05,0
+407,2024-02-15,1752,Mouse,Accesorios,899.1,Efectivo,Johnsonberg,David Knox,0.08,0
+408,2024-02-15,1832,Mouse,Tecnología,325.15,Transferencia,Hollandmouth,Brendan Foster,0.02,0
+409,2024-02-15,1190,Celular,Accesorios,2893.28,Efectivo,West Leah,Robert Wallace,0.03,0
+410,2024-02-15,1728,Laptop,Electrónica,448.49,Efectivo,West Matthewchester,Tony Harris,0.06,0
+411,2024-02-15,1562,Tablet,Accesorios,497.74,Efectivo,Kristinafort,Steven Williams,0.02,0
+412,2024-02-15,1803,Celular,Tecnología,2674.25,Transferencia,Reidmouth,Julie Perez,0.18,0
+413,2024-02-15,1080,Laptop,Tecnología,2834.59,Tarjeta,Clairehaven,Amanda Cummings,0.0,0
+414,2024-02-15,1488,Mouse,Electrónica,2309.2,Efectivo,Cameronmouth,Michael Chavez,0.1,1
+415,2024-02-15,1894,Laptop,Accesorios,65.94,Transferencia,Jennifermouth,Benjamin Underwood,0.02,1
+416,2024-02-15,1087,Laptop,Accesorios,53.97,Transferencia,Warrenbury,James Brewer,0.06,0
+417,2024-02-15,1193,Teclado,Accesorios,1165.4,Transferencia,Campbellfort,Keith Bailey,0.19,0
+418,2024-02-15,1103,Laptop,Electrónica,473.02,Tarjeta,Lake Destinyberg,Benjamin Rodriguez,0.03,0
+419,2024-02-15,1782,Tablet,Accesorios,104.24,Efectivo,Jamesland,David King,0.19,1
+420,2024-02-15,1095,Laptop,Tecnología,1419.0,Transferencia,Lake Bill,Pamela Martin,0.04,0
+421,2024-02-15,1422,Tablet,Accesorios,2832.03,Tarjeta,Port Kelly,Jacqueline Chavez,0.15,0
+422,2024-02-15,1890,Mouse,Electrónica,1005.27,Transferencia,East Derek,Christian Watson,0.11,0
+423,2024-02-15,1197,Tablet,Accesorios,2000.37,Transferencia,Brockshire,Amber Wright,0.18,0
+424,2024-02-15,1000,Mouse,Accesorios,1974.09,Transferencia,Pachecobury,Jeffrey Mejia,0.11,0
+425,2024-02-15,1406,Mouse,Tecnología,790.69,Transferencia,Jonesport,Joshua Sweeney,0.11,0
+426,2024-02-15,1377,Tablet,Accesorios,1968.75,Transferencia,South Paulland,Danny Douglas,0.04,0
+427,2024-02-15,1166,Celular,Tecnología,676.39,Tarjeta,Lauramouth,Christopher Henderson,0.03,0
+428,2024-02-15,1508,Audífonos,Tecnología,409.92,Efectivo,Lewisberg,Barbara Wallace,0.18,0
+429,2024-02-15,1637,Laptop,Electrónica,2119.08,Efectivo,Wilkinsonbury,Gwendolyn Smith,0.07,0
+430,2024-02-15,1312,Teclado,Tecnología,384.65,Efectivo,Lake Melanie,Danielle Adkins,0.07,0
+431,2024-02-15,1592,Audífonos,Tecnología,2990.88,Efectivo,West Aaron,Erica Jones,0.15,0
+432,2024-02-15,1417,Laptop,Electrónica,591.18,Tarjeta,South Brittany,Renee Fitzgerald,0.07,0
+433,2024-02-15,1762,Laptop,Tecnología,1802.72,Tarjeta,West Michael,Ashley Lane,0.19,0
+434,2024-02-15,1680,Mouse,Electrónica,1263.55,Tarjeta,Lake Jessicastad,Allison Armstrong,0.15,0
+435,2024-02-15,1476,Laptop,Accesorios,422.84,Transferencia,Spearsland,Nicole Garza,0.12,1
+436,2024-02-15,1072,Teclado,Electrónica,132.14,Transferencia,New Sarah,Ryan Norris,0.18,0
+437,2024-02-15,1140,Laptop,Tecnología,1887.06,Transferencia,Port Diane,Traci Perkins,0.01,0
+438,2024-02-15,1581,Tablet,Electrónica,2429.93,Efectivo,Whiteside,Nathan Steele,0.05,0
+439,2024-02-15,1261,Audífonos,Tecnología,2533.95,Transferencia,Phillipmouth,Paul Pierce,0.09,1
+440,2024-02-15,1339,Tablet,Accesorios,1474.0,Efectivo,West Jamesville,Russell Allen,0.05,0
+441,2024-02-15,1307,Teclado,Electrónica,2343.49,Transferencia,West Johnchester,Autumn Shea,0.15,0
+442,2024-02-15,1244,Laptop,Accesorios,2034.9,Efectivo,New Thomas,Patrick Spears,0.18,0
+443,2024-02-15,1514,Teclado,Tecnología,2186.55,Transferencia,Lake Lisachester,Timothy Flowers,0.08,0
+444,2024-02-15,1336,Mouse,Tecnología,1503.17,Transferencia,Roachview,Ashley Kelley,0.07,0
+445,2024-02-15,1574,Tablet,Accesorios,1918.56,Tarjeta,South Nicholas,Christine Norman,0.19,0
+446,2024-02-15,1560,Tablet,Electrónica,2426.3,Transferencia,Anthonyport,Ross Johnson,0.09,0
+447,2024-02-15,1075,Celular,Electrónica,1223.76,Transferencia,Martinezstad,Jennifer Roberts,0.1,0
+448,2024-02-15,1879,Laptop,Tecnología,2427.64,Tarjeta,Davisville,Shannon Stewart,0.07,0
+449,2024-02-15,1174,Mouse,Accesorios,1796.45,Efectivo,Vanessabury,Hannah Daniels,0.18,0
+450,2024-02-15,1108,Tablet,Accesorios,539.41,Tarjeta,Port Elizabeth,Bradley Calderon,0.11,0
+451,2024-02-15,1182,Tablet,Electrónica,122.82,Tarjeta,Brendamouth,Jennifer Beck,0.15,0
+452,2024-02-15,1191,Mouse,Electrónica,1120.12,Efectivo,Soniachester,Nicole Cruz,0.16,0
+453,2024-02-15,1064,Teclado,Electrónica,1662.75,Transferencia,Lake Williamside,Nicole Barnes,0.07,0
+454,2024-02-15,1848,Teclado,Accesorios,2527.47,Efectivo,Dylanview,Dawn Vargas,0.09,0
+455,2024-02-15,1962,Laptop,Electrónica,426.08,Transferencia,Lake Daniel,Tricia Perkins,0.17,0
+456,2024-02-15,1473,Celular,Electrónica,2410.61,Transferencia,Johnstown,Gabriel Ward MD,0.07,1
+457,2024-02-15,1782,Tablet,Tecnología,2595.88,Efectivo,Dennisport,Jenny Martin,0.16,0
+458,2024-02-15,1099,Celular,Electrónica,494.53,Tarjeta,Port Aaron,Rachael Scott,0.19,0
+459,2024-02-15,1543,Teclado,Electrónica,2562.2,Efectivo,Port Miranda,Denise Matthews,0.12,0
+460,2024-02-15,1863,Teclado,Accesorios,2974.79,Transferencia,Port Tracy,Brandi Webb,0.15,0
+461,2024-02-15,1127,Audífonos,Accesorios,2194.17,Efectivo,Marcusshire,Susan Sutton,0.16,0
+462,2024-02-15,1451,Laptop,Tecnología,2365.07,Efectivo,Kristinburgh,Samantha Bennett,0.17,0
+463,2024-02-15,1913,Audífonos,Electrónica,2983.53,Transferencia,Lunatown,Dawn Valenzuela,0.08,0
+464,2024-02-15,1368,Audífonos,Tecnología,1836.17,Tarjeta,Craigville,Tanya Roberts,0.01,0
+465,2024-02-15,1850,Audífonos,Accesorios,958.26,Efectivo,North Juanfurt,Lori Reyes,0.08,0
+466,2024-02-15,1042,Laptop,Tecnología,2520.72,Transferencia,Penabury,Lori Figueroa,0.13,0
+467,2024-02-15,1883,Laptop,Accesorios,1862.73,Transferencia,Donnamouth,Amanda King,0.09,0
+468,2024-02-15,1418,Mouse,Tecnología,1764.53,Efectivo,Lake Lindaport,Ryan Knight,0.15,0
+469,2024-02-15,1487,Celular,Tecnología,798.22,Tarjeta,Port Russellstad,Lori Holmes,0.07,0
+470,2024-02-15,1077,Celular,Electrónica,2281.19,Efectivo,Potterfurt,John Owens,0.13,0
+471,2024-02-15,1825,Mouse,Tecnología,290.92,Tarjeta,South Justinchester,Miguel Harrison,0.04,1
+472,2024-02-15,1800,Mouse,Electrónica,2776.65,Tarjeta,Barneschester,Kevin Jordan,0.15,1
+473,2024-02-15,1269,Teclado,Electrónica,1011.18,Tarjeta,Ginaberg,Rebecca Knight,0.11,0
+474,2024-02-15,1673,Audífonos,Electrónica,426.94,Tarjeta,East Tonyahaven,Steven Smith,0.04,0
+475,2024-02-15,1700,Mouse,Electrónica,1354.98,Efectivo,Carrollport,Crystal Adams,0.06,0
+476,2024-02-15,1758,Tablet,Tecnología,175.29,Transferencia,Joshuaburgh,Troy Garza,0.15,0
+477,2024-02-15,1899,Celular,Accesorios,2069.65,Transferencia,South Vincentborough,Grant Sutton,0.1,0
+478,2024-02-15,1727,Mouse,Accesorios,2712.98,Transferencia,East Jeffrey,Ronald Willis,0.04,0
+479,2024-02-15,1314,Tablet,Accesorios,2519.93,Transferencia,Elizabethstad,Hannah Donaldson,0.19,0
+480,2024-02-15,1924,Tablet,Tecnología,425.74,Transferencia,Garciaville,Melissa Cook,0.14,0
+481,2024-02-15,1850,Tablet,Electrónica,422.5,Transferencia,New Steven,Jocelyn Nichols,0.19,0
+482,2024-02-15,1901,Teclado,Accesorios,2449.63,Efectivo,Johnsonmouth,Elizabeth Williamson,0.09,0
+483,2024-02-15,1888,Teclado,Tecnología,2776.55,Tarjeta,Port Kyle,Joe Shaw MD,0.1,0
+484,2024-02-15,1992,Tablet,Electrónica,1408.98,Transferencia,East Jamesville,John Wood,0.18,0
+485,2024-02-15,1944,Teclado,Accesorios,1521.96,Efectivo,Danielberg,Terry Walker,0.11,0
+486,2024-02-15,1167,Audífonos,Electrónica,988.87,Transferencia,Browntown,Lindsey Lucas,0.14,0
+487,2024-02-15,1338,Tablet,Accesorios,2688.08,Transferencia,Wilsonfort,Mrs. Kathleen Brooks MD,0.05,0
+488,2024-02-15,1192,Audífonos,Accesorios,1952.46,Tarjeta,Port John,Steven Taylor,0.09,0
+489,2024-02-15,1452,Audífonos,Accesorios,900.34,Tarjeta,South Mark,Troy Cuevas,0.02,0
+490,2024-02-15,1282,Tablet,Electrónica,931.41,Tarjeta,West Davidmouth,Johnny Beasley,0.04,0
+491,2024-02-15,1335,Celular,Tecnología,2679.04,Transferencia,East Jessica,Michael Willis,0.0,0
+492,2024-02-15,1389,Tablet,Electrónica,90.22,Transferencia,North Jacqueline,Kenneth Williams,0.01,0
+493,2024-02-15,1999,Tablet,Accesorios,1002.04,Transferencia,New John,Christopher Brooks,0.2,0
+494,2024-02-15,1524,Teclado,Electrónica,1685.35,Tarjeta,South Denisebury,Robert Lewis,0.05,0
+495,2024-02-15,1239,Tablet,Tecnología,487.24,Efectivo,Port Kyle,Louis Patel,0.13,0
+496,2024-02-15,1831,Celular,Electrónica,321.69,Transferencia,Conwayhaven,Felicia Miller,0.17,0
+497,2024-02-15,1957,Teclado,Tecnología,2455.07,Transferencia,Bushchester,Rodney Newman,0.11,0
+498,2024-02-15,1482,Laptop,Tecnología,2688.49,Transferencia,South Rebeccaburgh,Henry Wright,0.03,1
+499,2024-02-15,1658,Laptop,Electrónica,2479.64,Efectivo,West Matthew,Angela Cummings,0.15,0
+500,2024-02-15,1715,Audífonos,Accesorios,2701.42,Transferencia,Dixonport,Anna Thomas,0.12,0
