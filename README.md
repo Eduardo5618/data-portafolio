@@ -16,7 +16,7 @@ Ingeniero de Sistemas con experiencia en automatización de procesos ETL, análi
 ## 🚀 Proyectos
 
 ### 1. ETL simple: CSV a PostgreSQL
-📁 [`proyectos_etl/etl_csv_to_postgres.py`](etl_proyecto_simple/etl_csv_to_postgres.py)  
+📁 [`proyectos_etl/etl_csv_to_postgres.py`](proyectos_etl/etl_csv_to_postgres.py)  
 Pipeline simple que extrae datos desde archivos CSV, los transforma con Pandas y los carga en una base de datos PostgreSQL. Incluye archivo de esquema.
 
 ### 2. Automatización de Reportes con Pandas
